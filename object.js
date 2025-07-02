@@ -13,6 +13,7 @@ console.log(a.marks);
 console.log(a.marks[3]);
 console.log(typeof(a));
 console.log(a.pin);
+console.log(a["name"]);
 
 console.log(a["pin"]);
 
